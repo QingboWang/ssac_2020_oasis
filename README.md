@@ -2,7 +2,6 @@
 repo for the source code of OASiS (Off-the-ball Action Significance Score), presented in SSAS 2020 Hackathon.
 
 *qingbowang_ssac_hackathon_presentation.pptx*: describes the idea of OASiS
-
 *demo_data_generation.ipynb*: generates the data used to perform the OASiS analysis
 *demo_data_exploration.ipynb*: generates most of the figures used in the presentation
 *demo_movie_visualization.ipynb*: generates the movie used in the presentation
@@ -12,7 +11,7 @@ The Datathon took place in part of [MIT Sloan Sports Analytics Conference 2020 (
 
 All the analysis was performed in [google colab](https://colab.research.google.com/notebooks/intro.ipynb) environment, and the data was provided by [Shottracker repo](https://bitbucket.org/%7Bd5f3e782-25bf-4b80-9963-c8ad27dacd65%7D/).
 
-For setting up the environment, please see the google colab documentation as well as the [Shottracker repo](https://bitbucket.org/%7Bd5f3e782-25bf-4b80-9963-c8ad27dacd65%7D/).
+For setting up the environment, please see the [google colab documentation](https://colab.research.google.com/notebooks/intro.ipynb) as well as the [Shottracker repo](https://bitbucket.org/%7Bd5f3e782-25bf-4b80-9963-c8ad27dacd65%7D/).
 
 The demo shown here are prototypes, and more sophisticated, scalable pipeline is under development. 
 Suggestions / comments are welcome!
