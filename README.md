@@ -3,7 +3,7 @@ repo for the source code of OASiS (Off-the-ball Action Significance Score), pres
 
 **qingbowang_ssac_hackathon_presentation.pptx**: describes the idea of OASiS
 
-( **qingbowang_ssac_hackathon_presentation.pptx**: is the pdf version ) 
+( **qingbowang_ssac_hackathon_presentation.pdf**: is the pdf version ) 
 
 **signif_action_example.mov**: is the full version of the movie (tracking the players) presented in the conference
 
