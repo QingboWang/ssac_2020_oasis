@@ -1,12 +1,12 @@
 # ssac_2020_oasis
 repo for the source code of OASiS (Off-the-ball Action Significance Score), presented in SSAS 2020 Hackathon.
 
-*qingbowang_ssac_hackathon_presentation.pptx*: describes the idea of OASiS
-*signif_action_example.mov*: Is the full version of the movie (tracking the players) presented in the conference
-*demo_data_generation.ipynb*: generates the data used to perform the OASiS analysis
-*demo_data_exploration.ipynb*: generates most of the figures used in the presentation
-*demo_movie_visualization.ipynb*: generates the movie used in the presentation
-*demo_aggregate_oasis_allgames.ipynb*: generates the OASiS across all the >10 different games provided in the datathon (Work in progress...)
+**qingbowang_ssac_hackathon_presentation.pptx**: describes the idea of OASiS
+**signif_action_example.mov**: is the full version of the movie (tracking the players) presented in the conference
+**demo_data_generation.ipynb**: generates the data used to perform the OASiS analysis
+**demo_data_exploration.ipynb**: generates most of the figures used in the presentation
+**demo_movie_visualization.ipynb**: generates the movie used in the presentation
+**demo_aggregate_oasis_allgames.ipynb**: generates the OASiS across all the >10 different games provided in the datathon (Work in progress...)
 
 The Datathon took place in part of [MIT Sloan Sports Analytics Conference 2020 (SSAC2020)](http://www.sloansportsconference.com/2020-conference/) and was supported by ESPN and Shottracker.
 
