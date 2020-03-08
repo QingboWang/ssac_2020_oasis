@@ -1,5 +1,7 @@
 # ssac_2020_oasis
-repo for the source code of OASiS (Off-the-ball Action Significance Score), presented in SSAS 2020 Hackathon.
+repo for the source code of OASiS (Off-the-ball Action Significance Score), [presented in SSAC 2020 Hackathon](https://youtu.be/52hivyFDmhs?t=2000).
+
+Full presentation available at https://youtu.be/52hivyFDmhs?t=2000
 
 **qingbowang_ssac_hackathon_presentation.pptx**: describes the idea of OASiS
 
